@@ -1,10 +1,7 @@
-old_feeder.py
-secret.py
 notes.txt
 log.log
 feeder.service
 *.pkl
 venv/
-conky_assets/*
 .idea/
 __pycache__/
