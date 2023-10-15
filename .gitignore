@@ -1,4 +1,5 @@
 notes.txt
+copy_to_gamefolder.sh
 log.log
 feeder.service
 *.pkl
